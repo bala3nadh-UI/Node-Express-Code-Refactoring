@@ -1,0 +1,6 @@
+npm install
+node main
+
+Test 'apiRoutes' in POSTMAN. For 'POST', give 
+    contentType: "application/json"
+    body       : give 'id','name' parameters.
